@@ -5,8 +5,8 @@ A third-year International Economics student at Foreign Trade University, passio
 ---
 
 ## 🎯 About Me
-- Strong analytical and problem-solving mindset  
-- Solid foundation in data analysis (Excel, SPSS / Python nếu bạn muốn mình thêm)  
+- Basic analytical and problem-solving mindset  
+- Solid foundation in data analysis (Microsoft Office, SQL, Python)  
 - Passionate about business insights and research  
 - Seeking internships or entry-level roles in data/business analyst positions  
 
